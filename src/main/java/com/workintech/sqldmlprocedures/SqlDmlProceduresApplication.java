@@ -8,6 +8,7 @@ public class SqlDmlProceduresApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SqlDmlProceduresApplication.class, args);
+
 	}
 
 }
